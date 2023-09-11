@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorldAssignment</string>
+    <string name="introTextView">Hello stranger! I hope you find peace where ever you go.</string>
+</resources>
